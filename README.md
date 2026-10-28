@@ -1,4 +1,4 @@
-# Obstacle Avoider Rover
+# Obstacle Avoider Rover - TEAM AKR - Connexion-Sync Hackathon 2026
 
 A robotics project featuring a custom-designed chassis, PCB, and obstacle avoidance system.
 
